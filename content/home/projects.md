@@ -36,9 +36,5 @@ filter_default = 0
   name = "Deep Learning"
   tag = ".deep-learning"
 
-[[filter]]
-  name = "Other"
-  tag = ".demo"
-
 +++
 
