@@ -13,7 +13,6 @@ weight = 5
     "Plant disease resistance",
     "bioinformatics",
     "Data science"
-    
   ]
 
 # List your qualifications (such as academic degrees).
