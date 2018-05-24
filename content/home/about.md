@@ -12,24 +12,26 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Information Retrieval"
+    "bioinformatics"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Forthcoming update "
+  institution = "SLU"
+  year = 20**
+  
+[[education.courses]]
+  course = "Postgraduate in crop genetic and breeding"
+  institution = "NAU"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor horticulture science in college of horticulture"
+  institution = "HNAU"
+  year = 2011
+
  
 +++
 
