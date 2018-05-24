@@ -19,7 +19,7 @@ weight = 5
 
 [[education.courses]]
   course = "Forthcoming update "
-  institution = "SLU"
+  institution = "Forthcoming update"
   year = 2022
   
 [[education.courses]]
