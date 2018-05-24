@@ -64,8 +64,8 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "2015104052@njau.edu.cn"
-  address = "卫岗一号"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "中国南京卫岗1号"
+  office_hours = "Weekday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""
@@ -231,17 +231,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "/"
 
 
 # Navigation Links
