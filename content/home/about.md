@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Forthcoming update "
   institution = "SLU"
-  year = 20**
+  year = 2022
   
 [[education.courses]]
   course = "Postgraduate in crop genetic and breeding"
