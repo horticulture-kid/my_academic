@@ -268,12 +268,12 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Projects"
-  url = "#vitate"
+  url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "vitate"
-  url = "#teaching"
+  name = "Vitate"
+  url = "#vitate"
   weight = 5
 
 [[menu.main]]
