@@ -11,7 +11,7 @@ title = "WangZhen's Academic"
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
-
+footnotereturnlinkcontents = "<sup>^</sup>"
 theme = "hugo-academic"
 enableEmoji = true
 
@@ -268,11 +268,11 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "#vitate"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "vitate"
   url = "#teaching"
   weight = 5
 
